@@ -1,6 +1,7 @@
 # burger_app
 
-./ss/ss1.png
+
+<img src="./ss/ss1.png" title="ss">
 
 A new Flutter project.
 
